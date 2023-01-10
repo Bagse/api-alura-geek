@@ -1,0 +1,212 @@
+{
+  "products-juegos-play": [
+    {
+      "id": 1,
+      "imageURL": "https://drive.google.com/file/d/1Z4i3ZpbBnZw4sMWkk670mDf-JZqvvdJR/view?usp=share_link",
+      "name": "God of War Ragnarok",
+      "price": 327.99,
+      "description": "Juego de play station5",
+      "categoryID": 1
+    },
+    {
+      "id": 2,
+      "imageURL": "https://drive.google.com/file/d/13LZ93IumAO-Fwi6osS3S581uw2Jtf4Cq/view?usp=share_link",
+      "name": "Horizon Forbidden West",
+      "price": 327.99,
+      "description": "Juego de play station5",
+      "categoryID": 1
+    },
+    {
+      "id": 3,
+      "imageURL": "https://drive.google.com/file/d/1XtemXQZfzsdtU7MBHh-3PlzItHtRPR-7/view?usp=share_link",
+      "name": "E-SPORTS FIFA 22",
+      "price": 327.99,
+      "description": "Juego de play station4",
+      "categoryID": 1
+    },
+    {
+      "id": 4,
+      "imageURL": "https://drive.google.com/file/d/1KJz_pntM8Z-0laXdXuifWnxln1T01FjC/view?usp=sharing",
+      "name": "SPIDER-MAN MILES MORALES",
+      "price": 327.99,
+      "description": "Juego de play station5",
+      "categoryID": 1
+    },
+    {
+      "id": 5,
+      "imageURL": "https://drive.google.com/file/d/1Ap_-H5pc-ZfeVBkTXm1kFaav2XD2vkXe/view?usp=sharing",
+      "name": "GHOST OF TSUSHIMA",
+      "price": 327.99,
+      "description": "Juego de play station4",
+      "categoryID": 1
+    },
+    {
+      "id": 6,
+      "imageURL": "https://drive.google.com/file/d/1R9NFPeezkAop2ifabH6SUZBxnLLVK7z6/view?usp=share_link",
+      "name": "CALL OF DUTY WWII",
+      "price": 327.99,
+      "description": "Juego de play station4",
+      "categoryID": 1
+    },
+    {
+      "id": 7,
+      "imageURL": "https://drive.google.com/file/d/1R8KbfErHqZ_XZgB6AKuRN1aJNgOv7-zK/view?usp=share_link",
+      "name": "Elden Ring",
+      "price": 327.99,
+      "description": "Juego de play station4",
+      "categoryID": 1
+    },
+    {
+      "id": 8,
+      "imageURL": "https://drive.google.com/file/d/1zGxBdy4WXldWdV0ShW9Calrzv9R-3qSX/view?usp=share_link",
+      "name": "Ratchet Clank",
+      "price": 327.99,
+      "description": "Juego de play station5",
+      "categoryID": 1
+    }
+  ],
+  "products-juegos-nintendo": [
+    {
+      "id": 1,
+      "imageURL": "https://drive.google.com/file/d/12Bkxc8zYWaNETVHtIPfO3tWsVSAQ6gmY/view?usp=share_link",
+      "name": "Mario Rabbids Sparks of Hope",
+      "price": 159.99,
+      "description": "Juego de nintendo switch",
+      "categoryID": 1
+    },
+    {
+      "id": 2,
+      "imageURL": "https://drive.google.com/file/d/1BnidaYic0GPEPsosBK9Hwija789_lz4G/view?usp=share_link",
+      "name": "Crash Bandicoot Sane Trilogy",
+      "price": 159.99,
+      "description": "Juego de nintendo switch",
+      "categoryID": 1
+    },
+    {
+      "id": 3,
+      "imageURL": "https://drive.google.com/file/d/1T1CmsMvTVtcfn3LgQKFMeab4NYpc-2yC/view?usp=share_link",
+      "name": "Pokemon Version Violet",
+      "price": 159.99,
+      "description": "Juego de nintendo switch",
+      "categoryID": 1
+    },
+    {
+      "id": 4,
+      "imageURL": "https://drive.google.com/file/d/1kMChBfVOfSXEySjWI3KKPCNPsaW4UHH3/view?usp=share_link",
+      "name": "Super Smash Bros Ultimate",
+      "price": 159.99,
+      "description": "Juego de nintendo switch",
+      "categoryID": 1
+    },
+    {
+      "id": 5,
+      "imageURL": "https://drive.google.com/file/d/143Ro27bHDT0P_tVayPMkpcg7P9immkaJ/view?usp=share_link",
+      "name": "The Legend of Zelda",
+      "price": 159.99,
+      "description": "Juego de nintendo switch",
+      "categoryID": 1
+    },
+    {
+      "id": 6,
+      "imageURL": "https://drive.google.com/file/d/1A1e8yJc-S0LobtHGIzfQngqvIYQ4l2tK/view?usp=share_link",
+      "name": "Kart Races 3 Slime Speedway",
+      "price": 159.99,
+      "description": "Juego de nintendo switch",
+      "categoryID": 1
+    },
+    {
+      "id": 7,
+      "imageURL": "https://drive.google.com/file/d/1y9Ar4rTnv55E-uOQcDysCLJPrrK0DEsb/view?usp=share_link",
+      "name": "FIFA 23",
+      "price": 159.99,
+      "description": "Juego de nintendo switch",
+      "categoryID": 1
+    },
+    {
+      "id": 8,
+      "imageURL": "https://drive.google.com/file/d/1uhmzPMxAiL0wuXUylCeUsGuUhs35SVrs/view?usp=share_link",
+      "name": "Pokemon Version Scarlet",
+      "price": 159.99,
+      "description": "Juego de nintendo switch",
+      "categoryID": 1
+    }
+  ],
+  "products-consolas": [
+    {
+      "id": 1,
+      "imageURL": "https://drive.google.com/file/d/1d1j8TQO_PnlGf1nAQJlIoiP6bbWajeFm/view?usp=share_link",
+      "name": "Nintendo Switch Pokemon",
+      "price": 890.99,
+      "description": "nintendo switch",
+      "categoryID": 2
+    },
+    {
+      "id": 2,
+      "imageURL": "https://drive.google.com/file/d/1sBOaLlQQRlxweGLhhasgo91ikKK7RNY0/view?usp=share_link",
+      "name": "Nintendo Switch",
+      "price": 890.99,
+      "description": "nintendo switch",
+      "categoryID": 2
+    },
+    {
+      "id": 3,
+      "imageURL": "https://drive.google.com/file/d/1iv4BlXH6cNe1ArxqoFeri0hnUrGIswa_/view?usp=share_link",
+      "name": "PlayStation 5",
+      "price": 890.99,
+      "description": "play station 5",
+      "categoryID": 2
+    },
+    {
+      "id": 4,
+      "imageURL": "https://drive.google.com/file/d/15jPcy2QzylXzuu_VB855B4LBe_tFDpnY/view?usp=share_link",
+      "name": "PlayStation 5 God Of War",
+      "price": 890.99,
+      "description": "play station 5",
+      "categoryID": 2
+    },
+    {
+      "id": 5,
+      "imageURL": "https://drive.google.com/file/d/15jPcy2QzylXzuu_VB855B4LBe_tFDpnY/view?usp=share_link",
+      "name": "Xbox Series X",
+      "price": 890.99,
+      "description": "xbox series x",
+      "categoryID": 2
+    },
+    {
+      "id": 6,
+      "imageURL": "https://drive.google.com/file/d/1r9zf5mXnqGt4Wc5JGymRNACuuYmpcOs-/view?usp=share_link",
+      "name": "Xbox Series X Halo Infinite",
+      "price": 890.99,
+      "description": "xbox series x",
+      "categoryID": 2
+    },
+    {
+      "id": 7,
+      "imageURL": "https://drive.google.com/file/d/1P-3puLmmV40EIEzV05ttzuBB-zMau_N1/view?usp=share_link",
+      "name": "PlayStation 5 Horizon",
+      "price": 890.99,
+      "description": "play station 5",
+      "categoryID": 2
+    },
+    {
+      "id": 8,
+      "imageURL": "https://drive.google.com/file/d/14w3BUadqaID0CCSZ-Uum5xno_EyQH3PB/view?usp=share_link",
+      "name": "Nintendo Switch Animal Crossing",
+      "price": 890.99,
+      "description": "nintendo switch",
+      "categoryID": 2
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "videojuegos",
+      "description": "juegos de playstation5, juegos de playstation4, juegos nintendo switch"
+    },
+    {
+      "id": "2",
+      "name": "consolas",
+      "description": "nintendo switch, play station 5, xbox series x"
+    }
+  ]
+}
